@@ -1,38 +1,135 @@
-.App {
-  text-align: center;
+*{
+  font-family: 'Poppins';
+  box-sizing: border-box;
+  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.hello{
+  background-color: #EE5A24;
   color: white;
+  padding: 130px 0;
+
+ text-align: center;
+
+
 }
 
-.App-link {
-  color: #61dafb;
+.brandicons{
+  font-size: 40px;
+  color:black;
+  margin-right:10px ;
+ 
+  
+}
+ .Search{
+  background-color:white ;
+  width: 600px;
+  height: 55px;
+display: flex;
+margin: auto;
+
+ }
+ .Search input{
+border: none;
+outline:none ;
+flex:1
+
+ }
+ .Search button{
+  border: none;
+  outline:none ;
+  width: 100px;
+  background-color:
+  green;
+  color:white ;
+  letter-spacing: 1px;
+ 
+ }
+.searchicons{
+  color: #777;
+  padding: 15px;
+  width: auto;
+ 
+ }
+ .row{
+  width: 100%;
+ }
+ .card{
+  width: 20%;
+  margin-left: 60px;
+  margin-top: 50px;
+  height: 370px;
+  box-shadow:1px 1px 10px black
+  
+ }
+.card img{
+  
+  width:170px ;
+  height:130px ;
+margin: auto;
+margin-top:10px ;
+
+  
+ 
+ 
+
+} 
+.card h6{
+  font-size:10px ;
+  margin: auto;
+  
+}
+.card button{
+margin-left:40px ;
+margin-top: 30px;
+width: 120px;
+height:35px ;
+border-radius:10px ;
+background-color: #EE5A24;
+border:none;
+color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+
 }
+
+.help {
+  margin-bottom: 20px;
+  padding: 0 100px;
+
+
+}
+
+.help ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.help ul li {
+  margin-bottom: 5px;
+  color: #777;
+}
+
+.help h4 {
+  font-size: 18px;
+  margin-bottom: 5px;
+
+}
+
+.icon > * 
+{
+  margin-right: 10px;
+}
+
+
+
+

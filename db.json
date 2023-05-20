@@ -1,0 +1,65 @@
+{
+  "foods":[
+    {
+   "name":"momo",
+   "id":1,
+   "price":150,
+   "image":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW9tb3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1200&q=60",
+   "recipes":"chicken Momos is a dish that needs no introduction.However, it is pretty easy to prepare it at home without putting in much effort"
+  },
+
+  {
+    "name":"chowmin",
+  "id":2,
+  "price":150,
+  "image":"https://images.unsplash.com/photo-1617622141573-2e00d8818f3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hvd21laW58ZW58MHx8MHx8&auto=format&fit=crop&w=1200&q=60",
+  "recipes":"The homemade chow mein sauce is amazing in this recipe! Combine soy sauce, light sesame oil, oyster sauce, granulated sugar, cornstarch, ..."
+  },
+  {
+  "name":"pizza",
+  "id":3,
+  "price":350,
+  "image":"https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+  "recipes":"Pizza recipe. Learn how to make pizza at home, includes sauce and making dough. Make the best crust at home with this easy recipe."
+  },
+  {
+    "name":"burger",
+    "id":4,
+    "price":300,
+    "image":"https://images.unsplash.com/photo-1603064752734-4c48eff53d05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1200&q=60" ,
+    "recipes":"ngredients · 2 pounds ground chuck · ½ cup crushed saltine crackers or Panko breadcrumbs · 1 large egg · 2 tablespoons Worcestershire sauce · 2 ..."
+  },
+  {
+    "name":"Fried chiken",
+    "id":5,
+    "price":400,
+    "image":"https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZnJpZWQlMjBjaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "recipes":"Ingredients · 4 cups all-purpose flour, divided · 2 tablespoons garlic salt · 1 tablespoon paprika · 3 teaspoons pepper, divided · 2-1/2 teaspoons poultry seasoning ..."
+
+  },
+  {
+    "name":"pasta",
+    "id":6,
+    "price":250,
+    "image":"https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+    "recipes":"Masala pasta recipe made in Indian style with Indian spices, herbs, mix veggies & pasta.This super delicious dish is kids' friendly."
+    },
+    {
+      "name":"thukpa",
+      "id":7,
+      "price":200,
+      "image":"https://images.unsplash.com/photo-1628410040883-c412c8d9a0f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGh1a3BhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" ,
+      "recipes":"ngredients · 1 small onion, chopped · 2 garlic cloves, chopped · 1 tsp chopped ginger · 1 tsp ground cumin · ½ tsp ground turmeric · ¼ tsp ground timur powder ( ..."
+    },
+    {
+      "name":"Fried chiken",
+      "id":8,
+      "price":400,
+      "image":"https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZnJpZWQlMjBjaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "recipes":"Ingredients · 4 cups all-purpose flour, divided · 2 tablespoons garlic salt · 1 tablespoon paprika · 3 teaspoons pepper, divided · 2-1/2 teaspoons poultry seasoning ..."
+  
+    }
+]
+ 
+}
+
